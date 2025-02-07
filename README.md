@@ -6,6 +6,8 @@
 - [Auto.js Pro](http://www.autojs.cc/) 曾经实现了一部分Node.js，也拥有最好的开发体验和社区，但是现在整改半死不活了（惨）。（收费）
 - 如果你是新手，我推荐[AutoJs6](https://github.com/SuperMonster003/AutoJs6)，并且我推荐去看一下他的repo来了解autojs框架。[AutoJs6 文档](https://docs.autojs6.com/#/)
 
+由于我比较关注autojs用于自动化的部分（其本身是一个近乎完整的ES js实现，且实现了很多Android API的封装，所以用作自动化是其中一个应用而已）。在 [APIdoc.html](APIdoc.html) 中我将官方文档中和自动化比较相关的部分整合在一起，共14833个字，可能16k的LLM模型塞不下，但是再大一号的模型就能塞得下了。
+
 ## 环境搭建相关
 
 - [AutoJs6-TypeScript-Declarations](https://github.com/SuperMonster003/AutoJs6-TypeScript-Declarations) 提供了在IDE中代码提示的支持
